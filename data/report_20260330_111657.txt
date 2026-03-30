@@ -1,0 +1,190 @@
+ETL Report  2026-03-30
+============================================================
+
+[openalex] найдено 50, новых 50
+----------------------------------------
+  1. Evaluation of a wind tunnel designed to investigate the response of evaporation to changes in the incoming longwave radiation at a water surface
+     https://doi.org/10.5281/zenodo.8153245
+  2. “Staying on our land”: The centrality of land, the natural environment, and identity in community self-protection
+     https://openalex.org/W7113328731
+  3. NORA: an Open-Access 3D Multimodal Dataset for the Oil & Gas Field
+     https://doi.org/10.5281/zenodo.15269127
+  4. When Should Fractional-dose Vaccines be Used?
+     https://openalex.org/W7117941363
+  5. Toward Real-Time RAN Observability in Open-Source 5G Systems
+     https://openalex.org/W7120752563
+  6. LivingBench: an IoT/Edge Platform Benchmark Based on an Environmental Observation Use-Case
+     https://openalex.org/W7124228415
+  7. adamnordling/master-thesis-trajectory-data-augmentation: Final release
+     https://doi.org/10.5281/zenodo.18328971
+  8. Elite Sports Development in South Korea:Characteristics and Debates
+     https://doi.org/10.4324/9781003503910-20/elite-sports-development-south-korea-minhyeok-tak-yoon-jin-kim
+  9. Essays on the extended effects of international scientific mobility
+     https://openalex.org/W7131321000
+  10. Demonstrating Real-Time RAN Observability in Open-Source 5G: Controlled Interference Scenario
+     https://openalex.org/W7132089022
+  11. A REVIEW OF SYSTEMS PERSPECTIVES IN SUSTAINABILITY: HOW SYSTEMS PROPERTIES CONVEY SYSTEMS-WIDE DYNAMICS
+     https://openalex.org/W7133172366
+  12. “Approche épistémologique de la distinction normatif / non-normatif : entre a priori et a posteriori”
+     https://openalex.org/W7133574049
+  13. Sans pensées ennemies a priori : est-ce seulement possible ?
+     https://openalex.org/W7133575861
+  14. Disability activism in and out of the academy: classical studies, pedagogy and practice
+     https://openalex.org/W7133576119
+  15. Dental Implant Maintenance: An Overview of Knowledge and Practice
+     https://doi.org/10.5281/zenodo.18894665
+  16. Dental Implant Maintenance: An Overview of Knowledge and Practice
+     https://doi.org/10.5281/zenodo.18894664
+  17. Deep Learning Models Incorporate Ethical Constraints by Design
+     https://doi.org/10.5281/zenodo.18920605
+  18. Deep Learning Models Incorporate Ethical Constraints by Design
+     https://doi.org/10.5281/zenodo.18920606
+  19. Work-Life Conflict and Mental Health Among Japanese American Working Mothers: A Qualitative Study of Paid Maternity Leave in the U.S.
+     https://doi.org/10.5281/zenodo.18974877
+  20. Work-Life Conflict and Mental Health Among Japanese American Working Mothers: A Qualitative Study of Paid Maternity Leave in the U.S.
+     https://doi.org/10.5281/zenodo.18974878
+  21. NORA: an Open-Access 3D Multimodal Dataset for the Oil & Gas Field
+     https://doi.org/10.5281/zenodo.19003529
+  22. Does Surgical Technique Influence Radial and Axillary Nerve Injury After Long PHILOS Plate Fixation in Proximally Extending Humeral Shaft Fractures?
+     https://doi.org/10.5281/zenodo.18997902
+  23. Does Surgical Technique Influence Radial and Axillary Nerve Injury After Long PHILOS Plate Fixation in Proximally Extending Humeral Shaft Fractures?
+     https://doi.org/10.5281/zenodo.18997903
+  24. Critical Reflections on Artificial Intelligence Applications in Orthopedics and Traumatology
+     https://doi.org/10.5281/zenodo.18996206
+  25. Critical Reflections on Artificial Intelligence Applications in Orthopedics and Traumatology
+     https://doi.org/10.5281/zenodo.18996205
+  26. A Lightweight Embedded Detection System against Voltage Drop Fault Attacks in Multi-Tenant FPGAs
+     https://openalex.org/W7135707513
+  27. Cross-Core Covert Channel for RISC-V: Implementation, Countermeasures and Cross-Platform Analysis
+     https://openalex.org/W7135914654
+  28. Trillingsgebaseerde lokalisering van schade in plaatvormige structuren – een breedband-gedreven aanpak via spaarse schatting
+     https://openalex.org/W7136096762
+  29. False-Positive Results in HIV Screening Tests Prior to Elective Orthopedic Surgery: Prevalence, Causes, and Clinical Management Strategies
+     https://doi.org/10.5281/zenodo.19047430
+  30. Design Thinking
+     https://doi.org/10.5281/zenodo.19051740
+  31. False-Positive Results in HIV Screening Tests Prior to Elective Orthopedic Surgery: Prevalence, Causes, and Clinical Management Strategies
+     https://doi.org/10.5281/zenodo.19047431
+  32. Design Thinking
+     https://doi.org/10.5281/zenodo.19051739
+  33. Health status of aquacultured bivalves and fish: immune responses of Mytilus galloprovincialis to bacterial isolates and monitoring growth of Sparus aurata and Dicentrarchus labrax
+     https://openalex.org/W7137650275
+  34. TOP 50 ARTICLES ON DISCOID MENISCUS MANAGEMENT BIBLIOMETRIC ANALYSIS
+     https://doi.org/10.5281/zenodo.19067032
+  35. TOP 50 ARTICLES ON DISCOID MENISCUS MANAGEMENT BIBLIOMETRIC ANALYSIS
+     https://doi.org/10.5281/zenodo.19067033
+  36. Integrating Indigenous Knowledge into Science Teaching in High Schools
+     https://doi.org/10.5281/zenodo.19104968
+  37. Colonial Pedagogy in Kerala: A Study of Textbook Narratives as Instruments of Cultural and Political Subjugation
+     https://doi.org/10.5281/zenodo.19104887
+  38. Bridging Borders: The Role of Loka Kerala Sabha in Harnessing Diaspora for Development
+     https://doi.org/10.5281/zenodo.19104733
+  39. Pro Choice and Rawlsian Justice: Understanding Indian Scenario
+     https://doi.org/10.5281/zenodo.19114155
+  40. Pro Choice and Rawlsian Justice: Understanding Indian Scenario
+     https://doi.org/10.5281/zenodo.19114156
+  41. British Diplomatic History in Indian Princely States: Hyderabad, Kashmir, and Tanjavore
+     https://doi.org/10.5281/zenodo.19105042
+  42. From Repression to Resistance: The Freudian Uncanny in Meghna Pant's The Man Who Lost India
+     https://doi.org/10.5281/zenodo.19114384
+  43. Colonial Pedagogy in Kerala: A Study of Textbook Narratives as Instruments of Cultural and Political Subjugation
+     https://doi.org/10.5281/zenodo.19104886
+  44. British Diplomatic History in Indian Princely States: Hyderabad, Kashmir, and Tanjavore
+     https://doi.org/10.5281/zenodo.19105041
+  45. Integrating Indigenous Knowledge into Science Teaching in High Schools
+     https://doi.org/10.5281/zenodo.19104969
+  46. Investigating Ancient Silica-Rich Crust Production on the Moon through Ti XANES in Natural and Experimental Zircons
+     https://doi.org/10.71622/data_289393
+  47. Bridging Borders: The Role of Loka Kerala Sabha in Harnessing Diaspora for Development
+     https://doi.org/10.5281/zenodo.19104734
+  48. From Repression to Resistance: The Freudian Uncanny in Meghna Pant's The Man Who Lost India
+     https://doi.org/10.5281/zenodo.19114385
+  49. Engineering van Saccharomyces cerevisiae voor de duurzame productie van 3-methyl-1-butanol en 3-methyl-1-butanal
+     https://openalex.org/W7139315052
+  50. Design and Development of Integrations of the Digital Learning Environment to Personalize and Improve the Training Experience of UNITA Students.Use of Learning Analytics Techniques and Data-Driven Decision-Making Strategies to Personalize the Digital Learning Environment
+     https://openalex.org/W7139571994
+
+[arxiv] ошибка: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+AND+submittedDate%3A%5B202603300000+TO+202603302359%5D&start=0&max_results=50&sortBy=submittedDate&sortOrder=descending
+----------------------------------------
+
+[pubmed] найдено 38, новых 38
+----------------------------------------
+  1. Single-Injection Multi-Omics Analysis by Direct Infusion Mass Spectrometry.
+     https://pubmed.ncbi.nlm.nih.gov/41906962/
+  2. Developing and validating ultrasound-based machine-learning models incorporating radiomics features to predict malignancy in adnexal masses.
+     https://pubmed.ncbi.nlm.nih.gov/41906961/
+  3. A combined first-principles and machine learning study of phase stability and thermoelectric properties in ZrSiPt.
+     https://pubmed.ncbi.nlm.nih.gov/41906957/
+  4. Response by Oikonomou et al to Letter Regarding Article, "Artificial Intelligence-Enabled Echocardiography as a Surrogate for Multimodality Aortic Stenosis Imaging: Post Hoc Analysis of a Clinical Trial".
+     https://pubmed.ncbi.nlm.nih.gov/41906874/
+  5. Integrating Digital Health Into Stroke Policies.
+     https://pubmed.ncbi.nlm.nih.gov/41906872/
+  6. Multilayer Vertical Interactions of Air Pollution and Meteorological Drivers Revealed by a Unified Data-Driven Model.
+     https://pubmed.ncbi.nlm.nih.gov/41906869/
+  7. Accelerating organic luminescent material discovery: from quantum chemical calculations to machine learning.
+     https://pubmed.ncbi.nlm.nih.gov/41906821/
+  8. Machine learning-driven QSAR models for the prediction of metabolic mechanisms and thyroid hormone-disrupting effects of emerging pollutants in the human body: a case study of bisphenol analogues.
+     https://pubmed.ncbi.nlm.nih.gov/41906817/
+  9. Preferences, tailoring, and self-tailoring in internet-delivered treatments: lessons learned.
+     https://pubmed.ncbi.nlm.nih.gov/41906773/
+  10. Cross entropy gradient analysis for Alzheimer's disease assessment.
+     https://pubmed.ncbi.nlm.nih.gov/41906764/
+  11. Bioinspired Janus Electronic Textiles with Moisture and Thermal Management.
+     https://pubmed.ncbi.nlm.nih.gov/41906735/
+  12. Don't predict if you cannot interpret: investigating the clinical viability of facial movements for machine-learning assisted diagnostics of bipolar disorder.
+     https://pubmed.ncbi.nlm.nih.gov/41906728/
+  13. Application of physics-informed neural networks for ground reaction force estimation in human gait.
+     https://pubmed.ncbi.nlm.nih.gov/41906727/
+  14. Brain network communication model reveals diffusion-based structure-function decoupling in mild cognitive impairment.
+     https://pubmed.ncbi.nlm.nih.gov/41906672/
+  15. ASH: A Multi-Scale, Multi-Theory Modeling Program.
+     https://pubmed.ncbi.nlm.nih.gov/41906304/
+  16. Simulon: An AI-Assisted, PyTorch-Native Framework of Molecular Dynamics and Modeling.
+     https://pubmed.ncbi.nlm.nih.gov/41906299/
+  17. Fluency without understanding: risks of large language models in mental healthcare.
+     https://pubmed.ncbi.nlm.nih.gov/41906223/
+  18. Large language models in sports injury care: a comparative expert evaluation of GPT-4o and GPT-5.
+     https://pubmed.ncbi.nlm.nih.gov/41906124/
+  19. Cross-platform deep learning enables automated cytomorphologic subtyping of acute leukemia from bone marrow smears.
+     https://pubmed.ncbi.nlm.nih.gov/41906037/
+  20. Identification of biomarkers associated with endoplasmic reticulum stress-related cell death in osteoporosis based on bulk and single-cell transcriptomic analyses and experimental validation.
+     https://pubmed.ncbi.nlm.nih.gov/41905994/
+  21. Multi-scalar risk drivers for a heat vulnerability assessment framework using machine learning algorithms.
+     https://pubmed.ncbi.nlm.nih.gov/41905990/
+  22. Brain volumetric variability and artificial intelligence diagnosis: Importance of race/ethnicity-specific reference standards and social determinant adjustment. A scoping review.
+     https://pubmed.ncbi.nlm.nih.gov/41904988/
+  23. Nursing Student and Faculty Perceptions and Uses of Generative AI Chatbots in Nursing Education: A Mixed Methods Study.
+     https://pubmed.ncbi.nlm.nih.gov/41894178/
+  24. Thermal Decomposition Simulations of Hydroxylamine Pentazolate With Deep Neural Network Potential.
+     https://pubmed.ncbi.nlm.nih.gov/41891449/
+  25. Algorithm prediction of lifetime under high-power microwave based on T-type field plate HEMTs.
+     https://pubmed.ncbi.nlm.nih.gov/41861404/
+  26. Tensor Hypercontraction Error Correction Using Regression.
+     https://pubmed.ncbi.nlm.nih.gov/41846262/
+  27. Automated daily adaptation for breast cancer radiotherapy: benefits of deep learning-driven dose prediction workflow for CBCT-based adaptation.
+     https://pubmed.ncbi.nlm.nih.gov/41843986/
+  28. Uncovering Giant Magnetic Anisotropy in Co(II) Single-Ion Magnets via Combined Ab Initio and Machine-Learning Approaches.
+     https://pubmed.ncbi.nlm.nih.gov/41834786/
+  29. Artificial intelligence for battlefield triage in large-scale combat operations: Opportunities, limits, and ethical considerations.
+     https://pubmed.ncbi.nlm.nih.gov/41805912/
+  30. Diagnostic Accuracy of Artificial Intelligence for Predicting MGMT Promoter Methylation in Glioblastoma Using MR Imaging: A Systematic Review.
+     https://pubmed.ncbi.nlm.nih.gov/41730655/
+  31. Unveiling umami peptides in Gannan morels: Dual-processing extraction and flavor-enhancing mechanisms.
+     https://pubmed.ncbi.nlm.nih.gov/41621310/
+  32. Effects of vacuum steam pulsed blanching on bioactive compounds, quality attributes, enzyme activities, and microstructural properties of daylily (Hemerocallis lilioasphodelus L.).
+     https://pubmed.ncbi.nlm.nih.gov/41619677/
+  33. Research advances and outlook of bioactive peptides: integrating artificial intelligence, molecular simulation, and instrumental analysis techniques.
+     https://pubmed.ncbi.nlm.nih.gov/41610768/
+  34. Natural sources and bioactive mechanisms of anti-inflammatory peptides: from digestive metabolism to bioavailability enhancement strategies.
+     https://pubmed.ncbi.nlm.nih.gov/41610764/
+  35. Decoding the interaction of characteristic aroma compounds in Anhui rose damascena essential oil: Utilizing odor activity values, molecular simulation, and machine learning.
+     https://pubmed.ncbi.nlm.nih.gov/41605011/
+  36. Current advances in LC-MS/MS and GC-MS/MS coupled with chemometrics for integrated food analysis and quality control.
+     https://pubmed.ncbi.nlm.nih.gov/41535136/
+  37. Efficient quality classification of pretreated and dehydrated carrots using feature selection and intelligent models.
+     https://pubmed.ncbi.nlm.nih.gov/41454427/
+  38. Recent Advances in Musculoskeletal Radiology: Bridging Innovation and Clinical Application.
+     https://pubmed.ncbi.nlm.nih.gov/41443887/
+
+============================================================
+Итого: найдено 88, новых 88

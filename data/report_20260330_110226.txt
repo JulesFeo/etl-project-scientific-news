@@ -1,0 +1,117 @@
+ETL Report  2026-03-30
+etl_id: d95b32ec-977e-45d1-9ee9-ce246090b633
+============================================================
+
+[openalex] no_new_data -- 0 articles
+----------------------------------------
+  No new articles for this date.
+
+[arxiv] success -- 0 articles
+----------------------------------------
+  No articles loaded.
+
+[pubmed] success -- 0 articles
+----------------------------------------
+  1. Circulatory dietary and gut-derived metabolites predict early cognitive decline.
+     https://pubmed.ncbi.nlm.nih.gov/41896724/
+  2. Application of protein language models for antibody developability prediction.
+     https://pubmed.ncbi.nlm.nih.gov/41860336/
+  3. Global Mega-Challenges and International Collaboration in Science, Education, and Health.
+     https://pubmed.ncbi.nlm.nih.gov/41855432/
+  4. AbDist: a lightweight, distance-based model for antibody affinity prediction as an interpretable benchmark for machine learning models.
+     https://pubmed.ncbi.nlm.nih.gov/41847928/
+  5. Development and validation of machine learning prognostic models for overall survival in non-surgical prostate cancer patients with bone metastases.
+     https://pubmed.ncbi.nlm.nih.gov/41839858/
+  6. NAStructuralDB : structural database to facilitate computational studies of molecular modeling and recognition of proteins with special focus on antibody-antigen interactions.
+     https://pubmed.ncbi.nlm.nih.gov/41797001/
+  7. Assessing the integration of digitalization and AI in general medicine curricula in German-speaking Europe: a comprehensive survey.
+     https://pubmed.ncbi.nlm.nih.gov/41792043/
+  8. Possible cross‑talk between sarcopenia and obstructive sleep apnea revealed by WGCNA analysis and machine learning.
+     https://pubmed.ncbi.nlm.nih.gov/41784220/
+  9. Exploring the impact of reimbursement ratios on willingness to vaccinate: A mixed-effects modeling approach using panel data.
+     https://pubmed.ncbi.nlm.nih.gov/41774860/
+  10. Integrating ChatGPT into knowledge-retrieval tutorials in undergraduate medical education: a prospective evaluation of higher-order learning and feasibility.
+     https://pubmed.ncbi.nlm.nih.gov/41769797/
+  11. Dissecting burden of alcoholic cardiomyopathy: age-period-cohort analysis from the global burden of disease study 2019.
+     https://pubmed.ncbi.nlm.nih.gov/41736539/
+  12. Identification of the immune-related diagnostic biomarkers between Graves' disease and thyroid carcinoma based on comprehensive bioinformatics analysis and machine learning.
+     https://pubmed.ncbi.nlm.nih.gov/41729615/
+  13. The shared mechanisms and potential diagnostic markers for IgA nephropathy and celiac disease.
+     https://pubmed.ncbi.nlm.nih.gov/41714845/
+  14. Bulk and single-cell transcriptomics for identification of potential diagnostic biomarkers associated with pulmonary arterial hypertension and integrated stress response and experimental validation.
+     https://pubmed.ncbi.nlm.nih.gov/41706425/
+  15. GutMIND: A multi-cohort machine learning framework for integrative characteristics of the microbiota-gut-brain axis in neuropsychiatric disorders.
+     https://pubmed.ncbi.nlm.nih.gov/41696869/
+  16. The dynamics of hepatitis B virus transmission using a stochastic differential model and feed forward neural network approach.
+     https://pubmed.ncbi.nlm.nih.gov/41674183/
+  17. Machine learning prediction of functional cure to pegylated interferon-alpha therapy in two HBV populations: Advantaged populations and HBeAg-negative patients.
+     https://pubmed.ncbi.nlm.nih.gov/41656920/
+  18. ANXA2, DBN1, ZNF385D, and IL6ST: Endothelial cell biomarkers linking atherosclerosis progression to immune microenvironment dysregulation.
+     https://pubmed.ncbi.nlm.nih.gov/41655191/
+  19. Artificial intelligence and hearing health: a global evidence review of biases and equity implications for Africa.
+     https://pubmed.ncbi.nlm.nih.gov/41885802/
+  20. Modeling spectral EEG interactions using graph-structured variational representation learning.
+     https://pubmed.ncbi.nlm.nih.gov/41883490/
+  21. Hybrid AI/ML-mechanistic framework enables intelligent optimization of commercial biopharmaceutical downstream processing.
+     https://pubmed.ncbi.nlm.nih.gov/41879118/
+  22. Prognostic value of stress hyperglycemia ratio in critically Ill patients with acute kidney injury: a machine learning-driven retrospective cohort analysis.
+     https://pubmed.ncbi.nlm.nih.gov/41867166/
+  23. Integrated bioinformatics analysis reveals cross-talking hub genes and therapeutic agents between sepsis and acute myocardial infarction.
+     https://pubmed.ncbi.nlm.nih.gov/41863100/
+  24. Exosomes in diabetic kidney disease: pathogenesis, biomarker discovery, and emerging therapeutics-a comprehensive systematic review.
+     https://pubmed.ncbi.nlm.nih.gov/41845912/
+  25. Future directions in infertility research: the role of generative AI and large language models.
+     https://pubmed.ncbi.nlm.nih.gov/41838807/
+  26. MedIntelliCare: neurodynamic-inspired AI for medical decision support by integrating retrieval-augmented generation with multimodal cognitive processing.
+     https://pubmed.ncbi.nlm.nih.gov/41836195/
+  27. Addressing free rider issues in academic authorship in medical education.
+     https://pubmed.ncbi.nlm.nih.gov/41834706/
+  28. Bioinspired hybrid optimisation and deep belief neural networks for early chronic kidney disease detection: an explainable clinical AI framework.
+     https://pubmed.ncbi.nlm.nih.gov/41834383/
+  29. Genetic and clinical determinants of tacrolimus accumulation in early liver transplantation: evidence for a combined genotype-antibiotic effect.
+     https://pubmed.ncbi.nlm.nih.gov/41821195/
+  30. Predictive models for one-year renal function improvement in patients with atherosclerotic renal artery stenosis (ARAS) following renal artery revascularization: a real-world study from China.
+     https://pubmed.ncbi.nlm.nih.gov/41820014/
+  31. Exploring the mechanism of polymorphonuclear neutrophils against sepsis based on immune model.
+     https://pubmed.ncbi.nlm.nih.gov/41814716/
+  32. Multimodal MRI radiomics for predicting HIFU ablation efficacy in uterine fibroids: a machine learning study.
+     https://pubmed.ncbi.nlm.nih.gov/41813595/
+  33. A nine-gene diagnostic model for IgA nephropathy based on multi-cohort machine learning: integrating gene expression and immunohistochemical validation.
+     https://pubmed.ncbi.nlm.nih.gov/41803714/
+  34. MedFusion-gP-AKI: development and multicenter validation of a machine learning fusion model for early prediction of KDIGO stage 3 acute kidney injury in critically ill traumatic cervicothoracic spinal cord injury patients.
+     https://pubmed.ncbi.nlm.nih.gov/41803650/
+  35. Breaking through the radiation dilemma: development and clinical translation of anti-radiation drugs.
+     https://pubmed.ncbi.nlm.nih.gov/41782615/
+  36. Letter to the editor regarding 'dexamethasone as an adjuvant to continuous erector spinae plane block for postoperative analgesia after video-assisted thoracoscopic surgery for pulmonary nodule surgery: a randomized controlled trial'.
+     https://pubmed.ncbi.nlm.nih.gov/41782453/
+  37. Comparing deep learning and classical regression approaches for predicting healthcare expenditure and spending: a systematic review.
+     https://pubmed.ncbi.nlm.nih.gov/41779998/
+  38. An augmented ECG data based classification for arrhythmia using optimal feature set.
+     https://pubmed.ncbi.nlm.nih.gov/41778141/
+  39. Neutrophil extracellular trap-related genes in PTCL: identification, prognosis and drug interaction prediction via bioinformatics-machine learning.
+     https://pubmed.ncbi.nlm.nih.gov/41772937/
+  40. Genetically modified foods and human health: a comprehensive review and cross-national time-trend analysis.
+     https://pubmed.ncbi.nlm.nih.gov/41772782/
+  41. The utilisation of Artificial Intelligence in writing medical manuscripts - best practices and pitfalls.
+     https://pubmed.ncbi.nlm.nih.gov/41770741/
+  42. 3D-motion mapping of the malleus-incus complex using a robot-mounted optical coherence tomography vibrometry system.
+     https://pubmed.ncbi.nlm.nih.gov/41756507/
+  43. Integrated machine learning risk model for predicting radiation pneumonitis in lung cancer patients with interstitial lung disease.
+     https://pubmed.ncbi.nlm.nih.gov/41755502/
+  44. Automated subcutaneous fat segmentation with a convolutional neural network in magnetic resonance guided high-intensity focused ultrasound treatment for uterine fibroids.
+     https://pubmed.ncbi.nlm.nih.gov/41755457/
+  45. An enhanced heart disease prediction model based on linear Diophantine fuzzy-integrated supervised machine learning.
+     https://pubmed.ncbi.nlm.nih.gov/41743694/
+  46. Methodological considerations for validating a machine learning model predicting recurrence after ESD in superficial esophageal cancer.
+     https://pubmed.ncbi.nlm.nih.gov/41738491/
+  47. Association between hypothermic machine perfusion parameters and graft function in deceased donor kidney transplantation.
+     https://pubmed.ncbi.nlm.nih.gov/41736560/
+  48. Breaking barriers in women's pelvic health: claims-based economic analysis and healthcare utilization of an AI care program compared to usual care.
+     https://pubmed.ncbi.nlm.nih.gov/41733548/
+  49. Dynamic lysine acetylation and succinylation of platelet proteins regulates platelet storage lesion: mechanistic insights from multi-omics.
+     https://pubmed.ncbi.nlm.nih.gov/41729159/
+  50. Predictive modeling of vocal biomarkers for the diagnosis of Parkinson's disease.
+     https://pubmed.ncbi.nlm.nih.gov/41728211/
+
+============================================================
+Total loaded: 0

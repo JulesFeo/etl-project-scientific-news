@@ -1,0 +1,4 @@
+requests>=2.31.0
+tenacity>=8.2.0
+pyyaml>=6.0.1
+feedparser>=6.0.0
