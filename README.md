@@ -3,12 +3,9 @@
 ETL-процесс для инкрементальной загрузки научных статей из трех источников в нормализованную SQLite базу данных. Оркестрация через Apache Airflow (Docker), уведомления в Telegram.
 
 ## Источники данных
-
-| Источник | Тип данных | Формат | API-ключ |
-|---|---|---|---|---|
-| [OpenAlex](https://docs.openalex.org/) | Научные статьи (250M+ работ) | JSON | Не нужен |
-| [arXiv](https://info.arxiv.org/help/api/) | Препринты (физика, CS, математика) | Atom XML | Не нужен |
-| [PubMed](https://www.ncbi.nlm.nih.gov/home/develop/api/) | Биомедицинские статьи (35M+) | XML (E-utilities) | Не нужен
+[OpenAlex](https://docs.openalex.org/) 
+[arXiv](https://info.arxiv.org/help/api/) 
+[PubMed](https://www.ncbi.nlm.nih.gov/home/develop/api/)
 
 ## Структура проекта
 
