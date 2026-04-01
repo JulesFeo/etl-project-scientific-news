@@ -42,7 +42,7 @@ logging:
   log_file: "logs/etl.log"
 
 telegram:
-  bot_token: "8767847905:AAHuy8vvm_Ju8OD7CI4jA44edSAFE5eHfSE"
-  chat_id: "-5280887967"
+  bot_token: 
+  chat_id: 
   enabled: true
-  # proxy: "socks5://user:pass@host:port"  # или "http://host:port"
+  
