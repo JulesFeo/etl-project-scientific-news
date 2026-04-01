@@ -45,8 +45,8 @@ ETL-процесс для инкрементальной загрузки нау
 ### Предварительные требования
 
 - Docker и Docker Compose установлены
-- Telegram (вступление в беседу с ботом https://t.me/+nEWbUvT_gsY0YWZi)
-
+- Telegram 
+- !ОБЯЗАТЕЛЬНО! включить ВПН перед запуском докера у себя на ПК
 
 ### Шаг 1. Запустить Airflow
 
@@ -57,7 +57,7 @@ docker compose up -d
 При первом запуске Docker:
 - Соберет образ с зависимостями проекта
 - Поднимет PostgreSQL (для метаданных Airflow)
-- Инициализирует базу Airflow и создаст пользователя `admin`/`admin`
+- Инициализирует базу Airflow и создаст пользователя
 - Запустит веб-сервер и шедулер
 
 Дождитесь, пока все сервисы запустятся (1-2 минуты):
@@ -75,8 +75,7 @@ docker compose ps
 ```
 http://localhost:8080
 ```
-
-Логин: `admin`, пароль: `admin` (можно изменить в файле `.env`).
+Логин и пароль (а также все данные по ТГ скину в письме)
 
 ### Шаг 5. Включить DAG
 
@@ -94,26 +93,6 @@ http://localhost:8080
 - **База данных**: данные сохраняются в `data/science_etl.db`
 
 Если новых статей нет, бот отправит сообщение: *"No new articles for this date."*
-
-### Управление
-
-```bash
-# Остановить Airflow
-docker compose down
-
-# Остановить и удалить данные (volumes)
-docker compose down -v
-
-# Посмотреть логи
-docker compose logs airflow-scheduler
-docker compose logs airflow-webserver
-
-# Пересобрать образ (после изменения requirements.txt)
-docker compose build
-docker compose up -d
-```
-
----
 
 ## Ручной запуск (без Docker/Airflow)
 
@@ -158,6 +137,8 @@ python main.py
 | `telegram.bot_token` | Токен Telegram-бота | -- |
 | `telegram.chat_id` | ID чата для уведомлений | -- |
 | `telegram.enabled` | Включить уведомления | `true` |
+
+то, что указано по умолчанию было описано в документации к апи сайтов
 
 ## Telegram-уведомления
 
