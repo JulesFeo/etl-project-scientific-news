@@ -48,6 +48,7 @@ ETL-процесс для инкрементальной загрузки нау
 ### Шаг 1. Запустить Airflow
 
 ```bash
+docker compose build
 docker compose up -d
 ```
 
